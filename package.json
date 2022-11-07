@@ -1,0 +1,21 @@
+{
+  "name": "revisao-js-ammal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "atribuicao.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuzokamoto/revisao-js-ammal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuzokamoto/revisao-js-ammal/issues"
+  },
+  "homepage": "https://github.com/yuzokamoto/revisao-js-ammal#readme"
+}
