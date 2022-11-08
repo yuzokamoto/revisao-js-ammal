@@ -1,5 +1,5 @@
 // console.log(funcaoNormal(10)) // vai funcionar
-// console.log(funcaoSeta("10")) // vai dar erro, porque a funcaoSeta não é hoisteada (içada)
+// console.log(funcaoSeta(10)) // vai dar erro, porque a funcaoSeta não é hoisteada (içada)
 
 function funcaoNormal(param) {
     return param
